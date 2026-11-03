@@ -1,0 +1,13 @@
+# Roadmap
+- [x] Public error review: automatic build passed, 14 regression tests passed, 20 public pages checked, both form saves verified and test records removed
+- [ ] Signed-in admin verification — blocked: no registered account or approved administrator exists
+- [x] Review search foundations and Indian search opportunities; add self-referencing page URLs and verified Organization/Service data
+- [ ] Live Google/AI visibility and sitemap — blocked: site is unpublished; create sitemap once the public URL exists
+- [x] Design system, AI artwork, public pages, service pages, diagrams
+- [x] Project inquiry form (saved, reference number) + contact form
+- [ ] Admin dashboard with login & roles (inquiries, statuses, quotations, services, portfolio, team) — in progress
+- [ ] File uploads on inquiry form
+- [ ] Email notifications — needs sender domain
+- [ ] Razorpay payments — needs Razorpay account keys
+- [x] Official team portraits in upload order, clickable contact details, social links and updated tagline — tested on mobile and desktop
+- [ ] Final prices — waiting on owner
